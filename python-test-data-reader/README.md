@@ -11,7 +11,7 @@ from test logic so that non-technical team members can update test data without
 modifying the code.
 
 ## Tools Used
-- Python 3.11
+- Python 3.14
 - csv module (built into Python — no install needed)
 - VS Code (code editor)
 
