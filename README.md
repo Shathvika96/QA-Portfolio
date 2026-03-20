@@ -1,6 +1,6 @@
 # QA Automation Portfolio – Shathvika Kamalanathan
 
-This repository represents my QA journey, combining my experience in manual testing with my transition into automation.
+This repository showcases my transition from manual QA to automation, supported by hands-on projects and structured learning.
 
 I have almost 3 years of experience in manual QA, including test case design, defect tracking, regression testing, and working in Agile environments. I am now building automation skills through a structured QA FastTrack roadmap.
 
