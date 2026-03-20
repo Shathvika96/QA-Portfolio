@@ -1,8 +1,10 @@
-# QA Automation Portfolio – Shathvika Kamalanathan
+# QA Automation Portfolio
 
-This repository showcases my transition from manual QA to automation, supported by hands-on projects and structured learning.
+Shathvika Kamalanathan
 
-I have almost 3 years of experience in manual QA, including test case design, defect tracking, regression testing, and working in Agile environments. I am now building automation skills through a structured QA FastTrack roadmap.
+This portfolio showcases my transition from manual QA to automation through structured learning and hands-on projects.
+
+I have 3 years of experience in manual QA, including test case design, defect tracking, regression testing, and working in Agile environments. I am now building automation skills through a structured QA Automation FastTrack roadmap.
 
 ---
 
@@ -23,22 +25,20 @@ Each section of this repository will be updated with hands-on projects as I prog
 
 ## Repository Structure
 
-python-test-data-reader  
+### python-test-data-reader  
 Data-driven Python project demonstrating test data validation and basic automation logic.
 
-selenium-web-automation  
+### selenium-web-automation  
 Will include Selenium-based UI automation scenarios such as login testing and validation.
 
-api-testing-postman  
+### api-testing-postman  
 Will include API test collections covering CRUD operations and response validation.
 
-sql-data-validation  
+### sql-data-validation  
 Will include SQL queries and validation scenarios for backend data verification.
 
-manual-testing-artifacts  
+### manual-testing-artifacts  
 Includes sample test cases and defect reports based on real testing experience.
-
-
 
 ---
 
@@ -50,4 +50,4 @@ Includes sample test cases and defect reports based on real testing experience.
 
 ---
 
-This repository will continue to evolve as I complete more automation projects.
+This repository will continue to evolve as I build and refine real-world automation projects.
