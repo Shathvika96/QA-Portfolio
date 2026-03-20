@@ -1,60 +1,53 @@
 # QA Automation Portfolio – Shathvika Kamalanathan
 
-🚧 This portfolio is under active development as I transition from Manual QA to Automation Engineering.
+This repository represents my QA journey, combining my experience in manual testing with my transition into automation.
+
+I have almost 3 years of experience in manual QA, including test case design, defect tracking, regression testing, and working in Agile environments. I am now building automation skills through a structured QA FastTrack roadmap.
 
 ---
 
-## 🚀 About This Portfolio
+## Automation Focus
 
-This repository represents my QA journey, combining:
-
-- 3+ years of manual testing experience  
-- A structured transition into QA Automation following a FastTrack roadmap  
-
----
-
-## 🧠 QA Automation FastTrack Outcome
-
-This portfolio is aligned with a structured learning roadmap focused on becoming job-ready for QA Automation roles.
-
-The outcome includes:
+As part of this transition, I am developing practical skills in:
 
 - Python for test automation  
-- Selenium WebDriver for UI automation  
-- PyTest framework for structured test execution  
-- API testing using Postman (CRUD operations and validation)  
-- SQL for backend data validation  
-- Git & GitHub for version control and project tracking  
+- Selenium WebDriver for UI testing  
+- PyTest for structuring automated tests  
+- API testing using Postman  
+- SQL for data validation  
+- Git and GitHub for version control  
 
-Each section of this repository will contain practical implementations of these skills.
+Each section of this repository will be updated with hands-on projects as I progress.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-### 🔹 python-test-data-reader
-Data-driven Python project demonstrating file handling, validation logic, and structured test output.
+python-test-data-reader  
+Data-driven Python project demonstrating test data validation and basic automation logic.
 
-### 🔹 selenium-web-automation
-Will include Selenium-based UI automation projects such as login testing and validation scenarios.
+selenium-web-automation  
+Will include Selenium-based UI automation scenarios such as login testing and validation.
 
-### 🔹 api-testing-postman
-Will include Postman collections covering API testing, CRUD operations, and response validation.
+api-testing-postman  
+Will include API test collections covering CRUD operations and response validation.
 
-### 🔹 sql-data-validation
+sql-data-validation  
 Will include SQL queries and validation scenarios for backend data verification.
 
-### 🔹 manual-testing-artifacts
-Includes sample test cases and defect reports demonstrating strong QA fundamentals.
+manual-testing-artifacts  
+Includes sample test cases and defect reports based on real testing experience.
+
+
 
 ---
 
-## 🎯 Current Focus
-- Building automation skills step-by-step using a structured roadmap  
+## Current Focus
+
+- Building automation skills step by step  
 - Strengthening test design and validation logic  
 - Preparing for QA Automation roles  
 
 ---
 
-## 📌 Note
-This portfolio reflects my transition from manual testing to automation engineering and will continue to evolve with real-world projects.
+This repository will continue to evolve as I complete more automation projects.
