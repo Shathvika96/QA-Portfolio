@@ -3,14 +3,14 @@
 This section showcases my hands-on experience in manual QA testing from real-world projects.
 
 ## Scope of Work
-- Functional Testing  
-- Regression Testing  
-- Integration Testing  
-- Cross-platform testing (Web & Mobile)
+- Functional testing  
+- Regression testing  
+- Integration testing  
+- Cross-platform testing (Web and Mobile)  
 
 ## Included Artifacts
-- Sample Test Cases  
-- Bug Reports  
+- Sample test cases  
+- Bug reports  
 
 ## Key Skills Demonstrated
 - Requirement analysis  
@@ -19,4 +19,4 @@ This section showcases my hands-on experience in manual QA testing from real-wor
 - Validation of user workflows  
 
 ## Relevance to Automation
-These manual testing fundamentals support the design of effective automation test cases.
+These manual testing fundamentals support the design of effective automation test cases and validation logic.
